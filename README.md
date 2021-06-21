@@ -1,4 +1,4 @@
-# P2 2020 Self Hosted
+# P2 _ Self Hosted _ 2020
 
 A self hosted version of the new P2 theme on wp.com.
 
